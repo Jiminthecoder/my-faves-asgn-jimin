@@ -1,0 +1,33 @@
+html {
+  background: beige;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(33, 90, 0, 0.85);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 30px 200px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 10px;
+  color: brown;
+}
+
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bolder;
+  color: red;
+}
+
+.center {
+  text-align: center;
+}
